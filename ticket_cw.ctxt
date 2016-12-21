@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ticket_cw()
+comment1.params=
+comment1.target=void\ processTicket()
+comment2.params=
+comment2.target=void\ enterFirstname()
+comment3.params=
+comment3.target=void\ enterTickets_purchased()
+comment4.params=
+comment4.target=void\ calculatePrice()
+comment5.params=
+comment5.target=void\ calculateNew_price()
+comment6.params=
+comment6.target=void\ displayResults()
+numComments=7

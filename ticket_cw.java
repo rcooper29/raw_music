@@ -40,7 +40,7 @@ public class ticket_cw
 
     public void enterTickets_purchased() {
 
-        System.out.print("How many tickets have you purchased: ");
+        System.out.print("Please enter how many tickets have you purchased: ");
         tickets_purchased = Integer.parseInt(keyboard.nextLine());
 
     }

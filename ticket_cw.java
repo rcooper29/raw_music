@@ -54,10 +54,13 @@ public class ticket_cw
     public void calculateNew_price() {
         
         new_price = price / 100 * 90;
+        
     }
     
     public void displayResults() {
         
-       
+       System.out.print(firstname + ", the cost of your tickets is £" + tickets_purchased);
+        
     }
+    
 }
